@@ -13,7 +13,7 @@ KnotSquared = (2*pi/lamda)**2
 
 
 #_________________Router position
-Rx = (L-1)/2
+Rx = int((L-1)/2)
 Ry = Rx
 
 
