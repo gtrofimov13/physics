@@ -3,8 +3,8 @@
 
 ## Pre-requisites
 
-python3 pip --install matplotlib
-python3 pip --install numpy
+* python3 pip --install matplotlib
+* python3 pip --install numpy
 
 ## Run 
 pyhton3 <filename>
