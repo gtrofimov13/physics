@@ -9,4 +9,6 @@ python3 pip --install numpy
 ```
 
 ## Run 
+```
 pyhton3 <filename>
+```
