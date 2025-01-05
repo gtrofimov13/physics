@@ -1,0 +1,26 @@
+2025-01-04 21:16:04,723 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-04 21:16:04,723 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-01-04 21:16:04,723 INFO werkzeug MainThread :  * Restarting with stat
+2025-01-04 21:16:05,378 WARNING werkzeug MainThread :  * Debugger is active!
+2025-01-04 21:16:05,378 INFO werkzeug MainThread :  * Debugger PIN: 164-702-911
+2025-01-04 21:20:22,503 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-04 21:20:22,503 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-01-04 21:20:22,504 INFO werkzeug MainThread :  * Restarting with stat
+2025-01-04 21:20:23,162 WARNING werkzeug MainThread :  * Debugger is active!
+2025-01-04 21:20:23,163 INFO werkzeug MainThread :  * Debugger PIN: 164-702-911
+2025-01-04 21:21:57,808 INFO werkzeug MainThread :  * Detected change in '/home/gt/Documents/git/physics/wifi-models/WiFinal_without_object.py', reloading
+2025-01-04 21:21:57,908 INFO werkzeug MainThread :  * Restarting with stat
+2025-01-04 21:21:58,564 WARNING werkzeug MainThread :  * Debugger is active!
+2025-01-04 21:21:58,564 INFO werkzeug MainThread :  * Debugger PIN: 164-702-911
+2025-01-04 21:22:05,721 INFO werkzeug MainThread :  * Detected change in '/home/gt/Documents/git/physics/wifi-models/app.py', reloading
+2025-01-04 21:22:05,822 INFO werkzeug MainThread :  * Restarting with stat
+2025-01-04 21:22:06,480 WARNING werkzeug MainThread :  * Debugger is active!
+2025-01-04 21:22:06,480 INFO werkzeug MainThread :  * Debugger PIN: 164-702-911
+2025-01-04 21:27:40,426 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-04 21:27:40,426 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2025-01-04 21:27:40,427 INFO werkzeug MainThread :  * Restarting with stat
+2025-01-04 21:27:41,081 WARNING werkzeug MainThread :  * Debugger is active!
+2025-01-04 21:27:41,081 INFO werkzeug MainThread :  * Debugger PIN: 164-702-911

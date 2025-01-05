@@ -1,19 +1,19 @@
 from numpy import *
 from numpy.linalg import solve
 import matplotlib.pyplot as plt
+import sys
 
 #______________Room Params, still need frequency
-L=101
+L = int(sys.argv[1]) if len(sys.argv) > 1 else 101
+frequency = float(sys.argv[2]) if len(sys.argv) > 2 else 2.4
 
-lamda = 6
+lamda = 300 / frequency  # Speed of light / frequency
 Lsquared = L**2
 KnotSquared = (2*pi/lamda)**2
-
 
 #_________________Router position
 Rx = L-5
 Ry = Rx
-
 
 #____index
 Indexroom = zeros([L,L])#needs to be an array
